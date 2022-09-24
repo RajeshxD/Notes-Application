@@ -43,7 +43,7 @@ const Nav = ({ setShowModal, data, setData, refresher }) => {
   return (
     <nav className="navbar navbar-expand-lg bg-light">
       <div className="container-fluid">
-        <a className="navbar-brand mx-5" href="#">
+        <a className="navbar-brand mx-5" href="/">
           My Notes App
         </a>
         <button

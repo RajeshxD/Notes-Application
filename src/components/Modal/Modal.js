@@ -84,7 +84,7 @@ function ModalDiv({ showModal, setShowModal, refresher }) {
           ></textarea>
           {/* for color selection */}
           <DropdownButton id="dropdown-basic-button" title="Select Thereme">
-            <Dropdown.Item href="#/action-1">
+            <Dropdown.Item href="">
               <div
                 className="d-flex"
                 onClick={() => handleColor("#54BAB9", "#9ED2C6")}
@@ -99,7 +99,7 @@ function ModalDiv({ showModal, setShowModal, refresher }) {
                 ></div>
               </div>
             </Dropdown.Item>
-            <Dropdown.Item href="#/action-2">
+            <Dropdown.Item href="">
               {" "}
               <div
                 className="d-flex"
@@ -116,7 +116,7 @@ function ModalDiv({ showModal, setShowModal, refresher }) {
               </div>
             </Dropdown.Item>
             <Dropdown.Item
-              href="#/action-3"
+              href=""
               onClick={() => handleColor("#AFB4FF", "#B1E1FF")}
             >
               {" "}
@@ -131,7 +131,7 @@ function ModalDiv({ showModal, setShowModal, refresher }) {
                 ></div>
               </div>
             </Dropdown.Item>
-            <Dropdown.Item href="#/action-4">
+            <Dropdown.Item href="">
               {" "}
               <div
                 className="d-flex"

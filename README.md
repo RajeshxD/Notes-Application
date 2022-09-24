@@ -50,14 +50,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - React Bootsrap
 - React Feather
 
-
 ### Useful resources
 
 - [ReactJS](https://reactjs.org/tutorial/tutorial.html) - How to set up a local development environment on your computer
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) - Window.localStorage
--[Bootstrap](https://getbootstrap.com/docs/5.2/components/navbar/) - Bootstrap for Navigation
--[React Bootstrap](https://react-bootstrap.netlify.app/components/dropdowns/) - React Bootstrap for Dropdown
--[React Feather](https://feathericons.com/?query=search) - React feather for search icon
+- [Bootstrap](https://getbootstrap.com/docs/5.2/components/navbar/) - Bootstrap for Navigation
+- [React Bootstrap](https://react-bootstrap.netlify.app/components/dropdowns/) - React Bootstrap for Dropdown
+- [React Feather](https://feathericons.com/?query=search) - React feather for search icon
 
 ## Author
 

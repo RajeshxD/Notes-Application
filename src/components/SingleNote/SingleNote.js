@@ -4,7 +4,7 @@ import { Rating } from "react-simple-star-rating";
 import { Check, PenTool, Trash } from "react-feather";
 const SingleNote = ({ item, refresher }) => {
   let savedData = JSON.parse(localStorage.getItem("myNotes")) || [];
-  const [rating, setRating] = useState(item.priority === "high" ? 100 : 0);
+  const [rating] = useState(item.priority === "high" ? 100 : 0);
   const [edit, setEdit] = useState(false);
   const [content, setContent] = useState(item.content);
   const handleDelete = () => {
