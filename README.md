@@ -31,8 +31,8 @@ This is Simple React CRUD application.
 ### Links
 
 - Solution URL: [@GitHub](https://github.com/RajeshxD/Notes-Application)
-<!-- - Live Site URL: [@Netlify](https://notes-app-xdelmo.netlify.app/)
-  [![Netlify Status](https://api.netlify.com/api/v1/badges/bf32737d-afbf-4360-a315-fec90aa06de0/deploy-status)](https://app.netlify.com/sites/notes-app-xdelmo/deploys) -->
+- Live Site URL: [@Netlify](https://notes-rajesha.netlify.app/)
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/bf32737d-afbf-4360-a315-fec90aa06de0/deploy-status)](https://notes-rajesha.netlify.app/)
 
 ### Getting Started with Create React App
 
