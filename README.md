@@ -1,70 +1,64 @@
-# Getting Started with Create React App
+# Notes Application React
+
+This is Simple React CRUD application.
+
+## Table of contents
+
+- [Overview](#overview)
+  - [Requirements](#requirements)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [Getting Started with Create React App](#getting-started-with-create-react-app)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+
+## Overview
+
+### Requirements
+
+- Create, Read, Update and Delete Notes
+- Sync data with localStorage
+- Add Note details to localstorage
+- Edit Note and update to local storage
+- Delete all notes
+
+<!-- <!-- ### Screenshot -->
+
+![screenshot](/src/screenshots/screenshot.jpeg) -->
+
+### Links
+
+- Solution URL: [@GitHub](https://github.com/RajeshxD/Notes-Application)
+<!-- - Live Site URL: [@Netlify](https://notes-app-xdelmo.netlify.app/)
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/bf32737d-afbf-4360-a315-fec90aa06de0/deploy-status)](https://app.netlify.com/sites/notes-app-xdelmo/deploys) -->
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## My process
 
-In the project directory, you can run:
+### Built with
 
-### `npm start`
+- Semantic HTML5 markup
+- CSS custom properties
+- Bootstrap
+- React.JS
+- React Hooks
+- React Bootsrap
+- React Feather
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Useful resources
 
-### `npm test`
+- [ReactJS](https://reactjs.org/tutorial/tutorial.html) - How to set up a local development environment on your computer
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) - Window.localStorage
+-[Bootstrap](https://getbootstrap.com/docs/5.2/components/navbar/) - Bootstrap for Navigation
+-[React Bootstrap](https://react-bootstrap.netlify.app/components/dropdowns/) - React Bootstrap for Dropdown
+-[React Feather](https://feathericons.com/?query=search) - React feather for search icon
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Author
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Website - [Rajesha T](https://rajesha.netlify.app/)
